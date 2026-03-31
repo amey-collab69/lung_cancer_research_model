@@ -25,7 +25,6 @@
 - [🔮 Future Improvements](#future-improvements)
 - [📚 References](#references)
 - [👨‍💻 Author](#author)
-- [📄 License](#license)
 
 ## Overview
 
